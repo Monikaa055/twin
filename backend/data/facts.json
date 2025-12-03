@@ -1,0 +1,17 @@
+{
+  "full_name": "Monika Suryan",
+  "name": "Moni",
+  "current_role": "Development Engineer",
+  "location": "Pune",
+  "email": "monika.suryan.cs@gmail.com",
+  "linkedin": "linkedin.com/in/monikasuryan/",
+  "specialties": ["Nextjs", "Python", "Aws"],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "B.tech in Computer Science",
+      "institution": "NIIT University",
+      "year": "2017"
+    }
+  ]
+}

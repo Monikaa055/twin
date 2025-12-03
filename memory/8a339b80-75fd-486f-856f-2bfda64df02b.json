@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Welcome to my website. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is your name"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm Monika! I'm an AI engineer and speaker. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "My name is Radhika"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Radhika! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "whats my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Radhika! How can I help you further?"
+  }
+]
